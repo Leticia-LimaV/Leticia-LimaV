@@ -1,7 +1,7 @@
 # Oii, sou Letícia! 😊
 
-💻 Desenvolvedora em formação | Apaixonada por tecnologia, design e aprendizado contínuo.  
-🎯 Explorando **JavaScript**, **HTML**, **CSS** e **Python** para criar soluções criativas e funcionais.  
+💻 Desenvolvedora Front-end em formação | Apaixonada por tecnologia, design e aprendizado contínuo.  
+🎯 Explorando **JavaScript**, **HTML**, **CSS** e **Java** para criar interfaces modernas, responsivas e interativas.  
 
 ---
 
@@ -10,9 +10,8 @@
   <img align="center" alt="Let-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Let-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Let-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Let-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Let-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
-
 ---
 
 ### 📬 Onde me encontrar
