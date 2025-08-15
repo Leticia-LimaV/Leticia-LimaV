@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/letícia-lima-das-virgens" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>  
-  <a href="mailto:leticialimav@outlook.com">
+  <a href="mailto:leticialimav@outlook.com.br">
     <img src="https://img.shields.io/badge/-Outlook-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   </a>
 </div>
